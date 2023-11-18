@@ -30,13 +30,10 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -44,17 +41,17 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 
-/*THE LARGE PICTURE AT THE TOP OF THE PAGE*/
+/* THE LARGE PICTURE AT THE TOP OF THE PAGE */
 .hero {
     height: 800px;
     width: 100%;
@@ -66,10 +63,20 @@ header div ul li {
 
 /* THE ELEMENTS OF THE 3 LONG HORIZONTAL BOXES ON THE LEFT (SEO, ORM, SMM) */
 
-.content {
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .search-engine-optimization,
@@ -87,15 +94,6 @@ header div ul li {
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
-}
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .search-engine-optimization h2 ,

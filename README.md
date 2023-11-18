@@ -1,3 +1,48 @@
+# Horison Social Solutions Services Landing Page
+
+When the stie is deployed and functioning properly, the image below is what it should look like.
+
+![What the website should look like when it's live and deployed](./Assets/images/Deployed%20website%20demo.png)
+
+
+ > **Note** This website is designed for viewing on a descktop, smaller screen sizes/resolutions (768px) will not display the site properly.
+
+ [To view the website, click this link](https://nuclearreid.github.io/02-Challenge/).
+
+
+## Purpose of this project
+
+This project was to practice at cleaning a website's HTML, and CSS source code.
+* Semantic HTML elements was added to the code/replaced less intutive element naming
+* alt attributes were added to the images used on the website
+* The CSS code has been cleaned and consildated to be easier to follow
+* comments have been added to both [style.css](./Assets/css/style.css) and [index.html](index.html)
+* Non-functioning links have been fixed
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -74,7 +119,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/Deployed%20website%20demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
