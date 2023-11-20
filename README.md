@@ -1,6 +1,6 @@
 # Horison Social Solutions Services Landing Page
 
-When the stie is deployed and functioning properly, the image below is what it should look like.
+When the site is deployed and functioning properly, the image below is what it should look like.
 
 ![What the website should look like when it's live and deployed](./Assets/readme%20supporting%20imgs/Deployed%20website%20demo.png)
 
